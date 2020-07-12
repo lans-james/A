@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/1.ico</file>
+        <file>rec/图标.jpg</file>
+        <file>rec/pic/1.png</file>
+        <file>rec/pic/2.png</file>
+        <file>rec/pic/3.png</file>
+        <file>rec/pic/about1.png</file>
+        <file>rec/pic/about2.png</file>
+        <file>rec/pic/background.jpg</file>
+        <file>rec/pic/bag.png</file>
+        <file>rec/pic/big.png</file>
+        <file>rec/pic/diamond.png</file>
+        <file>rec/pic/hook1.png</file>
+        <file>rec/pic/introduction2.png</file>
+        <file>rec/pic/mpause.png</file>
+        <file>rec/pic/mplay.png</file>
+        <file>rec/pic/over.bmp</file>
+        <file>rec/pic/pause.png</file>
+        <file>rec/pic/reset.png</file>
+        <file>rec/pic/small.png</file>
+        <file>rec/pic/time.png</file>
+        <file>rec/pic/title-money.png</file>
+        <file>rec/pic/title-time.png</file>
+        <file>rec/pic/开始界面.jpg</file>
+        <file>rec/pic/start.png</file>
+        <file>rec/pic/quit2.png</file>
+        <file>rec/pic/start2.png</file>
+        <file>rec/pic/about3.bmp</file>
+        <file>rec/pic/second.jpg</file>
+        <file>rec/pic/LevelIcon.png</file>
+        <file>rec/bgm/bgm.mp3</file>
+        <file>rec/bgm/endless.mp3</file>
+        <file>rec/bgm/endless.mp4</file>
+        <file>rec/bgm/get.mp3</file>
+        <file>rec/bgm/money.mp3</file>
+        <file>rec/bgm/music</file>
+        <file>rec/bgm/sound.mp3</file>
+        <file>rec/bgm/special.mp3</file>
+        <file>rec/bgm/ss.mp3</file>
+        <file>rec/pic/ccc.png</file>
+        <file>rec/pic/ppause.png</file>
+        <file>rec/pic/restart.png</file>
+        <file>rec/pic/capture_20200705090320661.bmp</file>
+        <file>rec/pic/intro2.bmp</file>
+        <file>rec/bgm/voice1.mp3</file>
+        <file>rec/bgm/voice2.mp3</file>
+        <file>rec/bgm/fail.mp3</file>
+        <file>rec/bgm/succeed.mp3</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
